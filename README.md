@@ -1,6 +1,6 @@
 # equipment_repository_template
 
-## This template open hardware repository was forked from the [BFOSH Project](https://github.com/FOSH-following-demand) by @amchagas.
+## This template open hardware repository was forked from the [BFOSH Project](https://github.com/FOSH-following-demand) by [@amchagas](https://github.com/amchagas)
 
 
 This should be used as a guideline by people/groups developing equipment in this project
